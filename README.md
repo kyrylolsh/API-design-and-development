@@ -10,7 +10,9 @@ cd <repo_name>
 Створіть віртуальне середовище та активуйте його:
 
 python -m venv venv
+
 source venv/bin/activate  # Для Linux/Mac
+
 venv\Scripts\activate  # Для Windows
 
 Встановіть залежності:
