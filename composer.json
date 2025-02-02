@@ -1,0 +1,17 @@
+{
+    "name": "kyryl/api",
+    "autoload": {
+        "psr-4": {
+            "Kyryl\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyrylolsh",
+            "email": "ipz233_oks@student.ztu.edu.ua"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
